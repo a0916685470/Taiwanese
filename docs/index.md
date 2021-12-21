@@ -1,6 +1,6 @@
 # 一個關於台語的網站
 
-# [南方注音符號表使用方法](https://a0916685470.github.io/Taiwanese/docs/南方注音.pdf)
+# [南方注音符號表使用方法](https://github.com/a0916685470/Taiwanese/docs/南方注音.pdf)
 
 
 
